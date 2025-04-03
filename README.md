@@ -62,6 +62,6 @@ This project focuses on analyzing and predicting traffic collision risk within t
 
 ## Author
 
-*   [Son Quach]
-*   [My Contact Information](quachhason.96@gmail.com)
+*   Son Quach
+*   My Contact Information: quachhason.96@gmail.com
 *   [LinkedIn Profile URL](https://www.linkedin.com/in/quachhason/)
