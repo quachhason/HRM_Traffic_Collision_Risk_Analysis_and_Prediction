@@ -41,11 +41,12 @@ This project focuses on analyzing and predicting traffic collision risk within t
     *   Random Forest Regressor:  Utilizing lagged and rolling features for monthly Risk Score forecasting.
     *   SARIMA Model: Applying SARIMA for time-series forecasting of monthly Risk Scores.
   
-! [test 1](https://github.com/quachhason/HRM_Traffic_Collision_Risk_Analysis_and_Prediction/blob/main/images/Forecasting.png?raw=true)
+![test 1](https://github.com/quachhason/HRM_Traffic_Collision_Risk_Analysis_and_Prediction/blob/main/images/Forecasting.png?raw=true)
+
 5.  **Model Evaluation:**  Evaluating classification and regression models using relevant metrics (Classification Report, Confusion Matrix, MAE, RMSE).
 6.  **Feature Importance Analysis:** Determining and visualizing key factors influencing Collision Severity.
 
-! [test 2](https://github.com/quachhason/HRM_Traffic_Collision_Risk_Analysis_and_Prediction/blob/main/images/Top%2010%20Feature%20Importances.png)
+![test 2](https://github.com/quachhason/HRM_Traffic_Collision_Risk_Analysis_and_Prediction/blob/main/images/Top%2010%20Feature%20Importances.png)
 
 ## Key Findings
 
