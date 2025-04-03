@@ -28,8 +28,8 @@ This project focuses on analyzing and predicting traffic collision risk within t
 *   **Tableau:** Main descriptive analysis and Visualization Dashboard.
 
 ## Data Sources
-
-*   **Processed Traffic Collision Data:**  Dataset used for analysis (likely derived from public HRM data sources, specify if possible).  *(**Note:** In your actual README, please add details about the specific data source if it's publicly available or if you can provide a general description without violating any data privacy rules.)*
+*   **Traffic Collision (Raw File):**  Dataset used for cleaning process (derived from public HRM data sources)
+*   **Processed Traffic Collision Data:**  Dataset used for visualization and advanced analysis
 
 ## Methodology
 
