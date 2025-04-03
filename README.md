@@ -8,6 +8,7 @@ This project focuses on analyzing and predicting traffic collision risk within t
 
 [Link Tableau Public Dasboard](https://public.tableau.com/app/profile/sonquach/viz/HalifaxTrafficCollisionsPatternsandInsights2018-2024/Dashboard1)
 
+![test](https://github.com/quachhason/HRM_Traffic_Collision_Risk_Analysis_and_Prediction/blob/main/Visualization/Tableau%20Dashboard%20image.png)
 ## Key Features
 
 *   **Risk Factor Analysis:** Identification of significant factors influencing traffic collision severity using Random Forest classification and feature importance analysis.
