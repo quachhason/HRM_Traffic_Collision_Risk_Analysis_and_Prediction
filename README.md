@@ -1,10 +1,12 @@
 # HRM Traffic Collision Risk Analysis & Prediction
 
-[![Project Status](https://img.shields.io/badge/Status-Complete-brightgreen.svg)](https://github.com/yourusername/HRM-Traffic-Collision-Risk-Analysis-Prediction)
+[![Project Status](https://img.shields.io/badge/Status-Complete-brightgreen.svg)](https://github.com/quachhason/HRM_Traffic_Collision_Risk_Analysis_and_Prediction)
 
 ## Overview
 
 This project focuses on analyzing and predicting traffic collision risk within the Halifax Regional Municipality (HRM).  By leveraging machine learning techniques, the project aims to identify key factors contributing to traffic collisions and develop models to forecast collision risk levels.  This analysis provides valuable insights for urban planning, traffic safety initiatives, and resource allocation to reduce traffic incidents.
+
+[Link Tableau Public Dasboard](https://public.tableau.com/app/profile/sonquach/viz/HalifaxTrafficCollisionsPatternsandInsights2018-2024/Dashboard1)
 
 ## Key Features
 
@@ -23,6 +25,7 @@ This project focuses on analyzing and predicting traffic collision risk within t
 *   **Statsmodels:** SARIMA time-series modeling.
 *   **Matplotlib & Seaborn:** Data visualization.
 *   **Google Colab:** Cloud-based environment for development and execution.
+*   **Tableau:** Main descriptive analysis and Visualization Dashboard.
 
 ## Data Sources
 
@@ -47,18 +50,18 @@ This project focuses on analyzing and predicting traffic collision risk within t
 
 ## Repository Contents
 
-*   `Grok.ipynb`: Jupyter Notebook containing the main code for data analysis, classification, regression, and forecasting.
-*   `Processed_Traffic_Collision.csv`:  *(Include if you are able to share a sample/processed version of your data, otherwise, describe data format and source)*.
+*   `Notebooks`: Jupyter Notebook containing the main code for data analysis, classification, regression, and forecasting.
+*   `data`:  Original dataset and processed dataset.
 *   `README.md`: This README file.
 
 ## How to Run
 
-1.  Open `Grok.ipynb` in Google Colab or Jupyter Notebook.
-2.  Ensure the `Processed_Traffic_Collision.csv` file is accessible in the specified path within the notebook or adjust the file path accordingly.
+1.  Open `Processing & EDA.ipynb` in Google Colab or Jupyter Notebook.
+2.  Ensure the `Traffic_Collision.csv (file raw)`or `Processed_Traffic_Collision.csv` file is accessible in the specified path within the notebook or adjust the file path accordingly.
 3.  Run the notebook cells sequentially to reproduce the analysis and models.
 
 ## Author
 
-*   [Your Name]
-*   [Your Email/Contact Information]
-*   [GitHub Profile URL (Optional)]
+*   [Son Quach]
+*   [My Contact Information](quachhason.96@gmail.com)
+*   [LinkedIn Profile URL](https://www.linkedin.com/in/quachhason/)
